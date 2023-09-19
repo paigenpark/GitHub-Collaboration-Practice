@@ -1,0 +1,22 @@
+cd GitHub-Collaboration-Practice 
+git branch paige_branch
+nano group-project.txt
+git add group-project.txt
+git commit -m "added text to main"
+git push
+git checkout paige_branch
+git merge main 
+nano group-project.txt
+touch commands.txt
+nano commands.txt
+git add .
+git commit -m "added files to paige_branch"
+git push
+
+git clone https://github.com/paigenpark/GitHub-Collaboration-Practice.git
+git checkout -b xp
+git add group-project.txt
+git add commands.txt
+git commit -m "created commands file and updated group project file with program and research information for XP"
+git push -u origin xp
+
