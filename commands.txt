@@ -3,4 +3,4 @@ git checkout -b xp
 git add group-project.txt
 git add commands.txt
 git commit -m "created commands file and updated group project file with program and research information for XP"
-git push
+git push -u origin xp
