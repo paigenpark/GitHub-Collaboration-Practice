@@ -1,0 +1,6 @@
+git clone https://github.com/paigenpark/GitHub-Collaboration-Practice.git
+git checkout -b xp
+git add group-project.txt
+git add commands.txt
+git commit
+git push
