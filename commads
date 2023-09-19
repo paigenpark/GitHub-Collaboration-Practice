@@ -1,0 +1,20 @@
+Clone repo
+$ git clone https://github.com/paigenpark/GitHub-Collaboration-Practice.git
+
+List all your branches
+$ git branch -a
+
+Checkout new branch
+$ git checkout juana_branch
+
+Merge main branch
+$ git merge main
+
+Edit the text file to add your degree program and some keywords for your research interests.
+$ vim group-project.txt
+
+$ git add .
+
+$ git commit -m "add it please"
+
+$ git puch
