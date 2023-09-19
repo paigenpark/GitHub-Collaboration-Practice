@@ -10,6 +10,6 @@ git merge main
 nano group-project.txt
 touch commands.txt
 nano commands.txt
-git add group-project.txt commands.txt
+git add .
 git commit -m "added files to paige_branch"
 git push
