@@ -32,5 +32,5 @@ Edit the text file to add your degree program and some keywords for your researc
 $ vim group-project.txt
 $ git add .
 $ git commit -m "add it please"
-$ git puch
+$ git push
 
